@@ -12,8 +12,8 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 public class Service1 {
     public static void main(String[] args) {
         SpringApplication.run(Service1.class, args);
-        System.out.println("************************************  Starting 1 Service  please wait  ************************************");
-        System.out.println("************************************  Service 1 is UP  ************************************");
+        System.out.println("\n============= Starting  Service 1  please wait ============= \n ");
+        System.out.println("\n============= Service 1 is UP ============= \n ");
     }
 
 }

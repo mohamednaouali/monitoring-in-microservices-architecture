@@ -13,7 +13,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 public class ZuulProxy {
     public static void main(String[] args) {
         SpringApplication.run(ZuulProxy.class, args);
-        System.out.println("************************************  Starting Zuul Proxy please wait  ************************************");
-        System.out.println("************************************  ZuulProxy status is  UP  ************************************");
+        System.out.println("\n============= Starting Zuul Proxy please wait ============= \n ");
+        System.out.println("\n============= ZuulProxy status is  UP ============= \n ");
     }
 }

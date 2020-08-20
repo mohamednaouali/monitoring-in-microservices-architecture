@@ -40,7 +40,7 @@ public class KafkaHttpRestProxySender implements HttpRestProxySender  {
     @Scheduled(fixedDelay = 60000)
     public void send() {
 
-        logger.info("[ KafkaHttpRestProxySender ] start send");
+        logger.info(" \n============= start sending data to kafka Cluster ============= \n ");
 
         try {
 
@@ -66,10 +66,10 @@ public class KafkaHttpRestProxySender implements HttpRestProxySender  {
                     restTemplate.exchange(kafkaRestProxyConfiguration.getKafkaRestProxyUrl(), HttpMethod.POST, httpEntity, KafkaResponse.class);
 
         } catch (JsonProcessingException e) {
-            logger.error("[ KafkaHttpRestProxySender ] error occurred when parsing record object ");
+            logger.error(" \n============= error occurred when parsing record object ============= \n");
             e.printStackTrace();
         }
-        logger.info("[ KafkaHttpRestProxySender ] end");
+        logger.info(" \n============= Sending data to kafka Cluster is donne ============= \n ");
 
     }
 }

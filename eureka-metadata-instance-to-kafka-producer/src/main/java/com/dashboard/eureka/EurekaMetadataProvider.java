@@ -19,10 +19,10 @@ public class EurekaMetadataProvider {
 
     public String getMetaDataFromEureka(){
 
-        System.out.println("\n **********************  Collecting eureka clients metadata from eureka **********************\n");
+        System.out.println("\n============= Collecting eureka clients metadata from eureka ============= \n ");
         String metadata=restTemplate.getForObject(eureka,String.class);
         System.out.println(metadata);
-        System.out.println("\n**********************  end **********************\n");
+        System.out.println("\n=============  Collecting is donne end looking  ============= \n");
 
         return metadata;
     }

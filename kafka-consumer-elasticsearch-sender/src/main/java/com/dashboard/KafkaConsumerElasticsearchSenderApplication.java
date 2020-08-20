@@ -43,7 +43,7 @@ public class KafkaConsumerElasticsearchSenderApplication implements CommandLineR
             try {
                 ConsumerRecords<String, String> records = kafkaConsumer.poll(Duration.ofMillis(100));
                 for (ConsumerRecord<String, String> events : records) {
-                    System.out.println("============= Start-Consuming =================");
+                    System.out.println("\n============= Start-Consuming ============= \n");
 
                     String aux = events.value().substring(1, events.value().length() - 1).replace("\\", "");
                     System.out.println(aux);
@@ -51,11 +51,11 @@ public class KafkaConsumerElasticsearchSenderApplication implements CommandLineR
 
                     UserDetailsToElastic elastic = UserDetailsMapper.modelToElastic(userDetails);
                     userTraceRepository.save(elastic);
-                    System.out.println("============= End-Consuming =================");
+                    System.out.println("\n============= End-Consuming ============= \n");
                 }
             } catch (Exception e){
 
-                System.out.println("thre is an error"+e);
+                System.out.println(" \n============= there is an error ============= \n "+e);
             };
 
         }

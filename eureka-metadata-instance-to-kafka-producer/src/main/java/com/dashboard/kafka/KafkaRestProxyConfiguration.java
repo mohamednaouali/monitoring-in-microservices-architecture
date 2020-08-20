@@ -18,7 +18,7 @@ public class KafkaRestProxyConfiguration {
     private String topic;
 
     public String getKafkaRestProxyUrl(){
-        System.out.println("url =http://"+host+":"+port+"/topics/"+topic);
+        System.out.println(" \n=============  url =http://"+host+":"+port+"/topics/============= \n "+topic    );
         return "http://"+host+":"+port+"/topics/"+topic;
     }
 }
