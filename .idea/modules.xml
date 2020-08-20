@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BackendDashboard.iml" filepath="$PROJECT_DIR$/BackendDashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service1/Service1.iml" filepath="$PROJECT_DIR$/Service1/Service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service2/Service2.iml" filepath="$PROJECT_DIR$/Service2/Service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZuulProxy/ZuulProxy.iml" filepath="$PROJECT_DIR$/ZuulProxy/ZuulProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end-server/back-end-server.iml" filepath="$PROJECT_DIR$/back-end-server/back-end-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/eureka-metadata-instance-to-kafka-producer.iml" filepath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/eureka-metadata-instance-to-kafka-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service-registry/eureka-service-registry.iml" filepath="$PROJECT_DIR$/eureka-service-registry/eureka-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/kafka-consumer-elasticsearch-sender.iml" filepath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/kafka-consumer-elasticsearch-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorization server/spring-boot-oauth2.iml" filepath="$PROJECT_DIR$/authorization server/spring-boot-oauth2.iml" />
+    </modules>
+  </component>
+</project>

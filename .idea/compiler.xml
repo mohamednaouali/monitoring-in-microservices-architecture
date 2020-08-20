@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-oauth2" />
+        <module name="Service2" />
+        <module name="eureka-service-registry" />
+        <module name="Service1" />
+        <module name="back-end-server" />
+        <module name="ZuulProxy" />
+        <module name="kafka-consumer-elasticsearch-sender" />
+        <module name="eureka-metadata-instance-to-kafka-producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="back-end-server" target="1.8" />
+      <module name="BackendDashboard" target="1.8" />
+      <module name="eureka-metadata-instance-to-kafka-producer" target="1.8" />
+      <module name="eureka-service-registry" target="1.8" />
+      <module name="kafka-consumer-elasticsearch-sender" target="1.8" />
+      <module name="Service1" target="1.8" />
+      <module name="Service2" target="1.8" />
+      <module name="spring-boot-oauth2" target="1.8" />
+      <module name="ZuulProxy" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Service1" options="-parameters" />
+      <module name="Service2" options="-parameters" />
+      <module name="ZuulProxy" options="-parameters" />
+      <module name="back-end-server" options="-parameters" />
+      <module name="eureka-metadata-instance-to-kafka-producer" options="-parameters" />
+      <module name="eureka-service-registry" options="-parameters" />
+      <module name="kafka-consumer-elasticsearch-sender" options="-parameters" />
+      <module name="spring-boot-oauth2" options="-parameters" />
+    </option>
+  </component>
+</project>
