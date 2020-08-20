@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-//@EnableScheduling
+@EnableScheduling
 public class KafkaHttpRestProxySender implements HttpRestProxySender  {
 
     Logger logger = LoggerFactory.getLogger(KafkaHttpRestProxySender.class);
@@ -37,7 +37,7 @@ public class KafkaHttpRestProxySender implements HttpRestProxySender  {
     private KafkaRestProxyConfiguration kafkaRestProxyConfiguration;
 
     @Override
-//    @Scheduled(fixedDelay = 5000)
+    @Scheduled(fixedDelay = 60000)
     public void send() {
 
         logger.info("[ KafkaHttpRestProxySender ] start send");

@@ -34,24 +34,30 @@ public class KafkaConsumerElasticsearchSenderApplication implements CommandLineR
     private ObjectMapper mapper;
 
     @Override
-    public void run(String... args) throws Exception {
+    public void run(String... args)  {
 
         String topicName = "userDetails";
         kafkaConsumer.subscribe(Arrays.asList(topicName));
 
-        while (true) {
-            ConsumerRecords<String, String> records = kafkaConsumer.poll(Duration.ofMillis(100));
-            for (ConsumerRecord<String, String> events : records) {
-                System.out.println("============= Start-Consuming =================");
+        while (true)  {
+            try {
+                ConsumerRecords<String, String> records = kafkaConsumer.poll(Duration.ofMillis(100));
+                for (ConsumerRecord<String, String> events : records) {
+                    System.out.println("============= Start-Consuming =================");
 
-                String aux = events.value().substring(1, events.value().length() - 1).replace("\\", "");
-                System.out.println(aux);
-                UserDetails userDetails = mapper.readValue(aux, UserDetails.class);
+                    String aux = events.value().substring(1, events.value().length() - 1).replace("\\", "");
+                    System.out.println(aux);
+                    UserDetails userDetails = mapper.readValue(aux, UserDetails.class);
 
-                UserDetailsToElastic elastic = UserDetailsMapper.modelToElastic(userDetails);
-                userTraceRepository.save(elastic);
-                System.out.println("============= End-Consuming =================");
-            }
+                    UserDetailsToElastic elastic = UserDetailsMapper.modelToElastic(userDetails);
+                    userTraceRepository.save(elastic);
+                    System.out.println("============= End-Consuming =================");
+                }
+            } catch (Exception e){
+
+                System.out.println("thre is an error"+e);
+            };
+
         }
     }
 }

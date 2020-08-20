@@ -1,6 +1,6 @@
 package com.dashboard.controller;
 
-import com.dashboard.aop.Rpc;
+import  com.dashboard.aop.Rpc;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import com.netflix.appinfo.ApplicationInfoManager;
@@ -11,13 +11,18 @@ import org.springframework.web.bind.annotation.RestController;
 
 
     @RestController
-    @RequestMapping("/test")
+    @RequestMapping("/welcome")
     public class WelcomeBackEndController {
         static final Logger lOGGER = LoggerFactory.getLogger(WelcomeBackEndController.class);
         @Rpc
-        @RequestMapping(value = "/v1", method = RequestMethod.GET)
+        @RequestMapping(value = "/info", method = RequestMethod.GET)
         public String info() {
-            return "welcome " + String.valueOf(ApplicationInfoManager.getInstance().getInfo().getPort()) + " has responded";
+            return "welcome " + ApplicationInfoManager.getInstance().getInfo().getPort() + " has responded";
+        }
+
+        @RequestMapping(value = "/API", method = RequestMethod.GET)
+        public String ok() {
+            return "welcome " + ApplicationInfoManager.getInstance().getInfo().getPort() + "  ok Controller has responded";
         }
 
     }
