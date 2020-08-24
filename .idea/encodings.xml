@@ -9,5 +9,6 @@
     <file url="file://$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-service-registry/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/src/main/java" charset="UTF-8" />
   </component>
 </project>

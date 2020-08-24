@@ -1,0 +1,9 @@
+com\dashboard\model\Permission.class
+com\dashboard\model\Role.class
+com\dashboard\AuthorizationServerApplication.class
+com\dashboard\model\User.class
+com\dashboard\config\WebSecurityConfiguration.class
+com\dashboard\model\AuthUserDetail.class
+com\dashboard\config\AuthorizationServerConfiguration.class
+com\dashboard\repository\UserDetailRepository.class
+com\dashboard\service\UserDetailServiceImpl.class

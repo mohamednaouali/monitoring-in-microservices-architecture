@@ -1,0 +1,11 @@
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\models\receiver\Offset.java
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\models\sender\KafkaRecord.java
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\eureka\EurekaMetadataProvider.java
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\models\sender\Record.java
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\kafka\KafkaHttpRestProxySender.java
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\models\receiver\KafkaResponse.java
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\kafka\HttpRestProxySender.java
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\kafka\KafkaRestProxyConfiguration.java
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\ClassConfiguration.java
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\constants\Constatnts.java
+C:\GraduationProject\BackendDashboard\eureka-metadata-instance-to-kafka-producer\src\main\java\com\dashboard\EurekaMetadataInstanceToKafkaProducerApplication.java

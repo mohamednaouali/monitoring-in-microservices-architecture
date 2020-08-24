@@ -76,12 +76,12 @@ public class RpcAop {
         return proceed;
     }
 
-    private UserRequestDetails chargerUserRequestDetails()  throws Exception {
-
+    public UserRequestDetails chargerUserRequestDetails() throws Exception {
         RequestAttributes reqAttr = RequestContextHolder.getRequestAttributes();
         ServletRequestAttributes servlReqAttr = (ServletRequestAttributes) reqAttr;
         HttpServletRequest req = servlReqAttr.getRequest();
-        this.userRequestDetails.setUserName(req.getHeader("name"));
+        System.out.println("\n============================Start UserRequestDetails =========================\n");
+        this.userRequestDetails.setUserName(req.getHeader("userName"));
         this.userRequestDetails.setCountry(req.getHeader("country"));
         this.userRequestDetails.setCity(req.getHeader("city"));
         this.userRequestDetails.setPlateform(req.getHeader("plateform"));
@@ -90,12 +90,13 @@ public class RpcAop {
         this.userRequestDetails.setUrl(req.getRequestURL());
         HandlerExecutionChain handlerExecutionChain = this.requestMappingHandlerMapping.getHandler(req);
         HandlerMethod handlerMethod = (HandlerMethod) handlerExecutionChain.getHandler();
-        this.userRequestDetails.setControllerName(handlerMethod.getBeanType().getSimpleName().replace("Controller", ""));
+        this.userRequestDetails.setControllerName(handlerMethod.getBeanType().getSimpleName());
         this.userRequestDetails.setMethodName(handlerMethod.getMethod().getName());
         String port = String.valueOf(ApplicationInfoManager.getInstance().getInfo().getPort());
         String microService = String.valueOf(ApplicationInfoManager.getInstance().getInfo().getAppName());
         this.userRequestDetails.setMicroService(microService);
         this.userRequestDetails.setPort(port);
+        System.out.println("\n============================End UserRequestDetails =========================\n");
         return userRequestDetails;
     }
 

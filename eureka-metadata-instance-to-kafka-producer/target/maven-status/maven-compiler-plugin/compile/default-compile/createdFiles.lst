@@ -1,0 +1,11 @@
+com\dashboard\constants\Constatnts.class
+com\dashboard\models\sender\Record.class
+com\dashboard\kafka\KafkaRestProxyConfiguration.class
+com\dashboard\kafka\HttpRestProxySender.class
+com\dashboard\kafka\KafkaHttpRestProxySender.class
+com\dashboard\eureka\EurekaMetadataProvider.class
+com\dashboard\EurekaMetadataInstanceToKafkaProducerApplication.class
+com\dashboard\ClassConfiguration.class
+com\dashboard\models\receiver\Offset.class
+com\dashboard\models\sender\KafkaRecord.class
+com\dashboard\models\receiver\KafkaResponse.class
