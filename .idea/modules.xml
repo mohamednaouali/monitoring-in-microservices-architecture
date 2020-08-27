@@ -11,7 +11,6 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-service-registry/eureka-service-registry.iml" filepath="$PROJECT_DIR$/eureka-service-registry/eureka-service-registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/kafka-consumer-elasticsearch-sender.iml" filepath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/kafka-consumer-elasticsearch-sender.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/kafka-consumer-group-error-logs-elasticsearch-sender.iml" filepath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/kafka-consumer-group-error-logs-elasticsearch-sender.iml" />
-      <module fileurl="file://$PROJECT_DIR$/authorization server/spring-boot-oauth2.iml" filepath="$PROJECT_DIR$/authorization server/spring-boot-oauth2.iml" />
     </modules>
   </component>
 </project>

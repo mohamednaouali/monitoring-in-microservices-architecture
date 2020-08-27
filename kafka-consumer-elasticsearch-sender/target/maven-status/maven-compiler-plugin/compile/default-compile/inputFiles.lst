@@ -1,6 +1,0 @@
-C:\GraduationProject\BackendDashboard\kafka-consumer-elasticsearch-sender\src\main\java\com\dashboard\ClassConfig.java
-C:\GraduationProject\BackendDashboard\kafka-consumer-elasticsearch-sender\src\main\java\com\dashboard\mapper\UserDetailsMapper.java
-C:\GraduationProject\BackendDashboard\kafka-consumer-elasticsearch-sender\src\main\java\com\dashboard\KafkaConsumerElasticsearchSenderApplication.java
-C:\GraduationProject\BackendDashboard\kafka-consumer-elasticsearch-sender\src\main\java\com\dashboard\model\UserDetails.java
-C:\GraduationProject\BackendDashboard\kafka-consumer-elasticsearch-sender\src\main\java\com\dashboard\model\UserDetailsToElastic.java
-C:\GraduationProject\BackendDashboard\kafka-consumer-elasticsearch-sender\src\main\java\com\dashboard\dao\UserTraceRepository.java

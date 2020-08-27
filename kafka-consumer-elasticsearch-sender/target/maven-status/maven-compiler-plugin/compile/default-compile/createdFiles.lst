@@ -1,8 +1,0 @@
-com\dashboard\model\UserDetails.class
-com\dashboard\model\UserDetailsToElastic$UserDetailsToElasticBuilder.class
-com\dashboard\model\UserDetailsToElastic.class
-com\dashboard\ClassConfig.class
-com\dashboard\model\UserDetails$UserDetailsBuilder.class
-com\dashboard\KafkaConsumerElasticsearchSenderApplication.class
-com\dashboard\dao\UserTraceRepository.class
-com\dashboard\mapper\UserDetailsMapper.class

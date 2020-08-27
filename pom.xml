@@ -22,7 +22,7 @@
         <module>ZuulProxy</module>
         <module>Service1</module>
         <module>back-end-server</module>
-        <module>authorization server</module>
+   
         <module>Service2</module>
         <module>eureka-metadata-instance-to-kafka-producer</module>
         <module>kafka-consumer-elasticsearch-sender</module>

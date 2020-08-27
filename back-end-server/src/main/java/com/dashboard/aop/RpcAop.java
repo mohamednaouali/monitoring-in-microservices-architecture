@@ -21,6 +21,7 @@ import org.springframework.web.servlet.HandlerExecutionChain;
 import org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping;
 
 import javax.servlet.http.HttpServletRequest;
+import java.net.URI;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -69,8 +70,11 @@ public class RpcAop {
         headers.setContentType(MediaType.valueOf("application/vnd.kafka.json.v2+json"));
 
         HttpEntity<String> httpEntity = new HttpEntity<>(rec, headers);
+
         ResponseEntity<KafkaResponse> response = restTemplate.exchange("http://localhost:8082/topics/userDetails", HttpMethod.POST, httpEntity, KafkaResponse.class);
 
+//        Object o= restTemplate.execute("http://localhost:8765/actuator/health",HttpMethod.GET,null,null);
+//        String resp = restTemplate.getForObject("http://localhost:8765/actuator/health", String.class);
         //  end sending to kafka
         // good bye
         return proceed;

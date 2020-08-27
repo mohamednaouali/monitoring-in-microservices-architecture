@@ -2,13 +2,11 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="kafka-consumer-group-error-logs-elasticsearch-sender" />
-        <module name="spring-boot-oauth2" />
         <module name="Service2" />
         <module name="eureka-service-registry" />
         <module name="Service1" />
@@ -27,7 +25,6 @@
       <module name="kafka-consumer-group-error-logs-elasticsearch-sender" target="1.8" />
       <module name="Service1" target="1.8" />
       <module name="Service2" target="1.8" />
-      <module name="spring-boot-oauth2" target="1.8" />
       <module name="ZuulProxy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -41,7 +38,6 @@
       <module name="eureka-service-registry" options="-parameters" />
       <module name="kafka-consumer-elasticsearch-sender" options="-parameters" />
       <module name="kafka-consumer-group-error-logs-elasticsearch-sender" options="-parameters" />
-      <module name="spring-boot-oauth2" options="-parameters" />
     </option>
   </component>
 </project>

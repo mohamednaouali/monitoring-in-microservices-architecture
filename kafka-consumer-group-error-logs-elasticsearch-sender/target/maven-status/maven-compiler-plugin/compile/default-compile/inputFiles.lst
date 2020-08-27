@@ -1,6 +1,0 @@
-C:\GraduationProject\BackendDashboard\kafka-consumer-group-error-logs-elasticsearch-sender\src\main\java\com\dashboard\ClassConfig.java
-C:\GraduationProject\BackendDashboard\kafka-consumer-group-error-logs-elasticsearch-sender\src\main\java\com\dashboard\model\LogModelToElastic.java
-C:\GraduationProject\BackendDashboard\kafka-consumer-group-error-logs-elasticsearch-sender\src\main\java\com\dashboard\dao\ElasticRepository.java
-C:\GraduationProject\BackendDashboard\kafka-consumer-group-error-logs-elasticsearch-sender\src\main\java\com\dashboard\KafkaConsumerGroupErrorLogsElasticsearchSenderApplication.java
-C:\GraduationProject\BackendDashboard\kafka-consumer-group-error-logs-elasticsearch-sender\src\main\java\com\dashboard\mapper\LogMapper.java
-C:\GraduationProject\BackendDashboard\kafka-consumer-group-error-logs-elasticsearch-sender\src\main\java\com\dashboard\model\LogModel.java

@@ -1,8 +1,0 @@
-com\dashboard\model\LogModelToElastic$LogModelToElasticBuilder.class
-com\dashboard\dao\ElasticRepository.class
-com\dashboard\ClassConfig.class
-com\dashboard\model\LogModelToElastic.class
-com\dashboard\mapper\LogMapper.class
-com\dashboard\model\LogModel.class
-com\dashboard\model\LogModel$LogModelBuilder.class
-com\dashboard\KafkaConsumerGroupErrorLogsElasticsearchSenderApplication.class
