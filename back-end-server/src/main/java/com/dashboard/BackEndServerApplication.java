@@ -16,8 +16,6 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 @SpringBootApplication
 @EnableDiscoveryClient
 
-//@EnableAutoConfiguration
-//@ComponentScan(basePackages="com.dashboard")
 
 public class BackEndServerApplication {
     public static void main(String[] args) {

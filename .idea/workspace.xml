@@ -23,204 +23,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f67653a0-1d30-403a-9293-a41cab8fd3e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_12_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_1_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_1_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_1_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_1_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Service1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service1/src/main/java/com/dashboard/BooleanResponse.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service1/src/main/java/com/dashboard/EurekaClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service1/src/main/java/com/dashboard/EurekaClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service1/src/main/java/com/dashboard/Service1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service1/src/main/java/com/dashboard/Service1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Service1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Service1/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service1/target/Service1-1.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service1/target/classes/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service1/target/classes/com/dashboard/BooleanResponse$BooleanResponseBuilder.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service1/target/classes/com/dashboard/BooleanResponse.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service1/target/classes/com/dashboard/EurekaClientController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service1/target/classes/com/dashboard/Service1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service1/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service2/src/main/java/com/dashboard/BooleanResponse.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service2/src/main/java/com/dashboard/EurekaClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service2/src/main/java/com/dashboard/EurekaClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service2/src/main/java/com/dashboard/Service2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service2/src/main/java/com/dashboard/Service2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Service2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Service2/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service2/target/Service2-1.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service2/target/classes/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service2/target/classes/com/dashboard/BooleanResponse$BooleanResponseBuilder.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service2/target/classes/com/dashboard/BooleanResponse.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service2/target/classes/com/dashboard/EurekaClientController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Service2/target/classes/com/dashboard/Service2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service2/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Service2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZuulProxy/target/ZuulProxy-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZuulProxy/target/ZuulProxy-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZuulProxy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ZuulProxy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZuulProxy/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ZuulProxy/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZuulProxy/target/classes/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ZuulProxy/target/classes/com/dashboard/ZuulProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZuulProxy/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZuulProxy/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZuulProxy/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZuulProxy/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZuulProxy/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/spring-boot-oauth2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/java/com/dashboard/AuthorizationServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/java/com/dashboard/config/AuthorizationServerConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/java/com/dashboard/config/WebSecurityConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/java/com/dashboard/model/AuthUserDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/java/com/dashboard/model/Permission.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/java/com/dashboard/model/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/java/com/dashboard/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/java/com/dashboard/repository/UserDetailRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/java/com/dashboard/service/UserDetailServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/resources/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/src/main/resources/schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/com/dashboard/AuthorizationServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/com/dashboard/config/AuthorizationServerConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/com/dashboard/config/WebSecurityConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/com/dashboard/model/AuthUserDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/com/dashboard/model/Permission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/com/dashboard/model/Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/com/dashboard/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/com/dashboard/repository/UserDetailRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/com/dashboard/service/UserDetailServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/classes/schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/spring-boot-oauth2-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/authorization server/target/spring-boot-oauth2-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/src/main/java/com/dashboard/aop/RpcAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end-server/src/main/java/com/dashboard/aop/RpcAop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end-server/src/main/java/com/dashboard/BackEndServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end-server/src/main/java/com/dashboard/BackEndServerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back-end-server/src/main/java/com/dashboard/controller/WelcomeBackEndController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end-server/src/main/java/com/dashboard/controller/WelcomeBackEndController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/back-end-server-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/back-end-server-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/BackEndServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/ClassConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/aop/Rpc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/aop/RpcAop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/aop/UserRequestDetails$UserRequestDetailsBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/aop/UserRequestDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/controller/WelcomeBackEndController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/model/UserRequestDetails$UserRequestDetailsBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/model/UserRequestDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/model/receiver/KafkaResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/model/receiver/Offset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/model/sender/KafkaRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/classes/com/dashboard/model/sender/Record.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/ClassConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/EurekaMetadataInstanceToKafkaProducerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/constants/Constatnts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/eureka/EurekaMetadataProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/kafka/HttpRestProxySender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/kafka/KafkaHttpRestProxySender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/kafka/KafkaRestProxyConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/models/receiver/KafkaResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/models/receiver/Offset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/models/sender/KafkaRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/classes/com/dashboard/models/sender/Record.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/eureka-metadata-instance-to-kafka-producer-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/eureka-metadata-instance-to-kafka-producer-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/src/main/java/com/dashboard/eureka/EurekaMetadataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-metadata-instance-to-kafka-producer/src/main/java/com/dashboard/eureka/EurekaMetadataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-service-registry/eureka-service-registry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-service-registry/eureka-service-registry.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-service-registry/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-service-registry/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-service-registry/src/main/java/com/dashboard/EurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-service-registry/src/main/java/com/dashboard/EurekaApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-service-registry/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-service-registry/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-service-registry/target/classes/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-service-registry/target/classes/com/dashboard/EurekaApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-service-registry/target/eureka-service-registry-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-service-registry/target/eureka-service-registry-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-service-registry/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-service-registry/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-service-registry/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-service-registry/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-service-registry/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/classes/com/dashboard/ClassConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/classes/com/dashboard/KafkaConsumerElasticsearchSenderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/classes/com/dashboard/dao/UserTraceRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/classes/com/dashboard/mapper/UserDetailsMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/classes/com/dashboard/model/UserDetails$UserDetailsBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/classes/com/dashboard/model/UserDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/classes/com/dashboard/model/UserDetailsToElastic$UserDetailsToElasticBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/classes/com/dashboard/model/UserDetailsToElastic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/kafka-consumer-elasticsearch-sender-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch-sender/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/classes/com/dashboard/ClassConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/classes/com/dashboard/KafkaConsumerGroupErrorLogsElasticsearchSenderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/classes/com/dashboard/dao/ElasticRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/classes/com/dashboard/mapper/LogMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/classes/com/dashboard/model/LogModel$LogModelBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/classes/com/dashboard/model/LogModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/classes/com/dashboard/model/LogModelToElastic$LogModelToElasticBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/classes/com/dashboard/model/LogModelToElastic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/kafka-consumer-group-error-logs-elasticsearch-sender-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-consumer-group-error-logs-elasticsearch-sender/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -246,6 +96,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -254,14 +108,16 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Service2">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.EurekaApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -283,6 +139,19 @@
     <configuration name="EurekaMetadataInstanceToKafkaProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-metadata-instance-to-kafka-producer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dashboard.EurekaMetadataInstanceToKafkaProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaConsumerElasticsearchSenderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kafka-consumer-elasticsearch-sender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dashboard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dashboard.KafkaConsumerElasticsearchSenderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -320,18 +189,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Extra: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="Extra/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Spring Boot.BackEndServerApplication" />
-      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Docker.Extra: Compose Deployment" />
       <item itemvalue="Spring Boot.EurekaMetadataInstanceToKafkaProducerApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.BackEndServerApplication" />
       <item itemvalue="Spring Boot.ZuulProxy" />
       <item itemvalue="Spring Boot.Service2" />
       <item itemvalue="Spring Boot.Service1" />
+      <item itemvalue="Spring Boot.KafkaConsumerElasticsearchSenderApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Service2" />
         <item itemvalue="Spring Boot.Service1" />
+        <item itemvalue="Spring Boot.Service2" />
+        <item itemvalue="Docker.Extra: Compose Deployment" />
+        <item itemvalue="Spring Boot.KafkaConsumerElasticsearchSenderApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -344,6 +225,18 @@
       <option name="presentableId" value="Default" />
       <updated>1598520523068</updated>
       <workItem from="1598520528254" duration="7302000" />
+      <workItem from="1598535689792" duration="520000" />
+      <workItem from="1598537887650" duration="527000" />
+      <workItem from="1598604286086" duration="7856000" />
+      <workItem from="1598620855437" duration="5304000" />
+      <workItem from="1598711545479" duration="3075000" />
+      <workItem from="1598865478978" duration="553000" />
+      <workItem from="1598866078045" duration="13791000" />
+      <workItem from="1598953878835" duration="3798000" />
+      <workItem from="1598966364453" duration="12483000" />
+      <workItem from="1598991051902" duration="2690000" />
+      <workItem from="1599036475787" duration="1395000" />
+      <workItem from="1599040940238" duration="6005000" />
     </task>
     <servers />
   </component>
@@ -360,39 +253,80 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="905" height="362" key="GridCell.Tab.0.bottom" timestamp="1598527609508">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598626913486">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="905" height="362" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598527609508" />
-    <state width="905" height="362" key="GridCell.Tab.0.center" timestamp="1598527609508">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1598626913486" />
+    <state x="488" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1598872929023">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="905" height="362" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598527609508" />
-    <state width="905" height="362" key="GridCell.Tab.0.left" timestamp="1598527609508">
+    <state x="488" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1598872929023" />
+    <state x="241" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599041037811">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="905" height="362" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598527609508" />
-    <state width="905" height="362" key="GridCell.Tab.0.right" timestamp="1598527609508">
+    <state x="241" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1599041037811" />
+    <state width="448" height="456" key="DebuggerActiveHint" timestamp="1598969980790">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="905" height="362" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598527609508" />
-    <state width="905" height="362" key="GridCell.Tab.1.bottom" timestamp="1598527609508">
+    <state width="448" height="456" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1598969980790" />
+    <state width="926" height="301" key="GridCell.Tab.0.bottom" timestamp="1599046970249">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="905" height="362" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598527609508" />
-    <state width="905" height="362" key="GridCell.Tab.1.center" timestamp="1598527609508">
+    <state width="926" height="301" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599046970249" />
+    <state width="926" height="301" key="GridCell.Tab.0.center" timestamp="1599046970248">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="905" height="362" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1598527609508" />
-    <state width="905" height="362" key="GridCell.Tab.1.left" timestamp="1598527609508">
+    <state width="926" height="301" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1599046970248" />
+    <state width="926" height="301" key="GridCell.Tab.0.left" timestamp="1599046970248">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="905" height="362" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1598527609508" />
-    <state width="905" height="362" key="GridCell.Tab.1.right" timestamp="1598527609508">
+    <state width="926" height="301" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1599046970248" />
+    <state width="926" height="301" key="GridCell.Tab.0.right" timestamp="1599046970249">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="905" height="362" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1598527609508" />
+    <state width="926" height="301" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1599046970249" />
+    <state width="926" height="301" key="GridCell.Tab.1.bottom" timestamp="1599046970249">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="926" height="301" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599046970249" />
+    <state width="926" height="301" key="GridCell.Tab.1.center" timestamp="1599046970249">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="926" height="301" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1599046970249" />
+    <state width="926" height="301" key="GridCell.Tab.1.left" timestamp="1599046970249">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="926" height="301" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1599046970249" />
+    <state width="926" height="301" key="GridCell.Tab.1.right" timestamp="1599046970249">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="926" height="301" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1599046970249" />
+    <state width="919" height="2" key="GridCell.Tab.2.bottom" timestamp="1599043518195">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="919" height="2" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599043518195" />
+    <state width="919" height="2" key="GridCell.Tab.2.center" timestamp="1599043518194">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="919" height="2" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1599043518194" />
+    <state width="919" height="2" key="GridCell.Tab.2.left" timestamp="1599043518194">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="919" height="2" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1599043518194" />
+    <state width="919" height="2" key="GridCell.Tab.2.right" timestamp="1599043518195">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="919" height="2" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1599043518195" />
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog" timestamp="1599041360354">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1599041360354" />
+    <state width="691" height="377" key="XDebugger.FullValuePopup" timestamp="1598970223134">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="691" height="377" key="XDebugger.FullValuePopup/0.0.1366.738@0.0.1366.738" timestamp="1598970223134" />
   </component>
 </project>

@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * Hamza.Ouni
+ *
  */
 @Component
 public class EurekaMetadataProvider {

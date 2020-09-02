@@ -19,6 +19,8 @@ public class WelcomeBackEndController {
     @Rpc
     @RequestMapping(value = "/info", method = RequestMethod.GET)
     public String info() {
-        return "welcome " + String.valueOf(ApplicationInfoManager.getInstance().getInfo().getPort()) + "  has responded";
+
+        return "welcome to back-end-server " + String.valueOf(ApplicationInfoManager.getInstance().getInfo().getPort())
+                + "  your request has been traced and logged in Elasticsearch ";
     }
 }
